@@ -1,0 +1,11 @@
+Name of Quantlet: hedged_port_all_copulae
+
+Published in: Francis Liu's PhD thesis
+
+Description: The notebook contains figure 1.6 to 1.11 in Francis Liu's PhD thesis, respectively. 
+
+Keywords: copula, copulae, hedging, tail risk, events
+
+Author: Francis Liu
+
+Submitted:  03 June 2024
