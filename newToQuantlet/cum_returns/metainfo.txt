@@ -1,0 +1,12 @@
+Name of Quantlet: cum_returns
+
+Published in: Francis Liu's PhD thesis
+
+Description: Out-of-sample cumulative returns of individual cryptos. The black vertical lines indicate the largest price drops each cryptos as indicated by the labels. Blue line is ADA;
+Orange line is ETH; Green line is LTC; Red line is XRP.
+
+Keywords: copula, copulae, hedging, tail risk, events
+
+Author: Francis Liu
+
+Submitted:  03 June 2024
