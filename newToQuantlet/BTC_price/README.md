@@ -9,7 +9,7 @@ Name of Quantlet: BTC_price
 
 Published in: Francis Liu's PhD thesis
 
-Description: Out-of-sample BTC and BTCF price. The first panel presents the price of BTC in blue line and that of BTCF in orange line. The black vertical lines with capital letter labels indicate the five most negative daily return of BTC in the out-of-sample data. The second panel presents the difference between the percentage returns of BTC and BTCF. The black vertical lines indicate the five most negative returns. The crosses locate the level the returns.
+Description: Out-of-sample BTC and BTCF price. The first panel presents the price of BTC in blue line and that of BTCF in orange line. The black vertical lines with capital letter labels indicate the five most negative daily return of BTC in the out-of-sample data. The second panel presents the difference between the percentage returns of BTC and BTCF. The black vertical lines indicate the five most negative returns. The crosses locate the level the returns. They are figure 1.3 to 1.5 in Francis Liu's PhD thesis, respectively.
 
 Keywords: copula, copulae, hedging, tail risk, events
 
